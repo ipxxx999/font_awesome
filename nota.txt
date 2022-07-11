@@ -1,0 +1,27 @@
+
+
+
+        <link rel="stylesheet" href="./fontawesome/miall.css">
+        <link rel="stylesheet" href="./fontawesome/v4-shims.css">
+
+
+
+Sacado de aqui
+        <!-------------------  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">--------------------->
+        <!-------------------  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css">--------------------->
+
+
+
+
+como funciona
+
+en tu pagina web cuando te diga bajate este font --- fontawesome  ----
+
+
+pones este enlace a tu carpeta 
+
+ejemplo
+
+./fontawesome/miall.css
+
+./fontawesome/v4-shims.css
